@@ -131,7 +131,7 @@ install_theme() {
 
   theme_dir=$(dirname "$limine_conf")
   echo -e "${CYAN}Copying theme image to $theme_dir...${RESET}"
-  cp "./cachyos.png" "$theme_dir/"
+  cp "./spitfire.png" "$theme_dir/"
 
   echo -e "${GREEN}${BOLD}Theme installed successfully!${RESET}"
 
@@ -161,7 +161,7 @@ remove_theme() {
 
   theme_dir=$(dirname "$limine_conf")
   echo -e "${CYAN}Removing theme image from $theme_dir...${RESET}"
-  rm -f "$theme_dir/cachyos.png"
+  rm -f "$theme_dir/spitfire.png"
 
   echo -e "${GREEN}${BOLD}Theme removed and backup restored!${RESET}"
 
