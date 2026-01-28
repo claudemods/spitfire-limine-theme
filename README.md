@@ -14,6 +14,6 @@
 
 ```bash
 bash -c "$(curl -fsSL https://raw.githubusercontent.com/claudemods/spitfire-limine-theme/main/install/install-from-github.sh)"
-
+```
 
 <img width="1280" height="800" alt="spitfire" src="https://github.com/user-attachments/assets/a42d2c66-fd32-4026-be9c-7931b97980e0" />
