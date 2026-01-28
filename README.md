@@ -2,7 +2,7 @@
 
 ## Options in the script
 
-1) **Install limine** – Installs and setups up limine and limines snapshot sync service this works from existing running GRUB systems
+1) **Install limine** – Installs and setups up limine and limines snapshot sync service this works from existing running GRUB systems And Others
 2) **Install theme** – Applies my Spitfire theme
 3) **Remove theme and restore backup** – Reverts to the previous theme
 4) **Edit limine.conf manually** – Opens the configuration for manual editing
