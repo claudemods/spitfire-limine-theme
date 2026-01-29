@@ -1,5 +1,7 @@
 # claudemods spitfire limine theme
 
+(Forked From https://github.com/diegons490/cachyos-limine-theme)
+
 ## Options in the script
 
 1) **Install limine** – Installs and setups up limine and limines snapshot sync service this works from existing running GRUB systems And Others
